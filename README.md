@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Treinamento de desenvolvimento NextJs/React
+  Treinamento NextJs/React
 </h3>
 
 <blockquote align="center">“O tempo que leva para realizar seus sonhos vai passar de qualquer forma”!</blockquote>
@@ -24,7 +24,7 @@
 </p>
 
 ## 🚀 Sobre o desafio
-
+----
 Durante esse desafio foi construído o app IGNEWS.
 
 <p align="center">
@@ -34,7 +34,7 @@ Durante esse desafio foi construído o app IGNEWS.
 </p>
 
 ## 📅 Entrega
-
+...
 
 
 ## 📝 Licença
@@ -42,5 +42,3 @@ Durante esse desafio foi construído o app IGNEWS.
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
