@@ -1,0 +1,25 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:@next/next/recommended",
+    "plugin:react/recommended",
+    "plugin:prettier/recommended"
+  ],
+  "plugins": [
+    "react",
+    "@typescript-eslint"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "requireConfigFile": false,
+    "sourceType": "module",
+    "babelOptions": {
+      "presets": [
+        "next/babel"
+      ]
+    }
+  },
+  "rules": {
+    "react/react-in-jsx-scope": "off"
+  }
+}
